@@ -7,3 +7,6 @@
 [submodule "flutter_social_ui"]
 	path = flutter_social_ui
 	url = https://github.com/raj-vora/flutter_social_ui.git
+[submodule "food_delivery_ui"]
+	path = food_delivery_ui
+	url = https://github.com/raj-vora/food_delivery_ui.git
