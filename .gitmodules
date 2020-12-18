@@ -1,3 +1,6 @@
 [submodule "chat-ui-flutter"]
 	path = chat-ui-flutter
 	url = https://github.com/raj-vora/chat-ui-flutter.git
+[submodule "budget_app_ui"]
+	path = budget_app_ui
+	url = https://github.com/raj-vora/budget_app_ui.git
