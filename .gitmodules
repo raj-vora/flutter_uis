@@ -1,0 +1,3 @@
+[submodule "chat-ui-flutter"]
+	path = chat-ui-flutter
+	url = https://github.com/raj-vora/chat-ui-flutter.git
